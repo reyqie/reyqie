@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://reyhanhaqiqi.my.id/" target="_blank" rel="noreferrer"><img src="https://github.com/reyhanhaqiqi/reyhanhaqiqi/blob/main/mybanner.gif" alt="my banner"></a>
+  <a href="https://github.com/reyqie" target="_blank" rel="noreferrer"><img src="https://github.com/reyhanhaqiqi/reyhanhaqiqi/blob/main/mybanner.gif" alt="my banner"></a>
 </p>
 
-### Hello 👋🏽, I'm [Reyhan!](https://github.com/reyhanhaqiqi)
+### Hello 👋🏽, I'm [Reyqie!](https://github.com/reyqie)
 <a href="https://t.me/ReyhanHQQ">
   <img align="left" alt="Reyhan's Telegram" width="22px" src="https://simpleicons.vercel.app/telegram/329ed8" />
 </a>
@@ -13,7 +13,7 @@
   <img align="left" alt="Reyhan's Facebook" width="22px" src="https://simpleicons.vercel.app/facebook/1685e6" />
 </a>
 <a href="https://www.linkedin.com/in/reyhan-haqiqi-a-f-a226b0248/">
-  <img align="left" alt="Reyhan's LinkedIn" width="22px" src="https://camo.githubusercontent.com/a65f527a5788de0dec5f1b2be0858392a3652ec2d766c73eb614c98183d245fb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" />
+  <img align="left" alt="Reyhan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/brands/linkedin.svg" />
 </a>
 
 <br />
