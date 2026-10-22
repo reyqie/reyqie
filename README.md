@@ -1,77 +1,121 @@
+<!-- ===================== BANNER ===================== -->
+
 <p align="center">
-  <a href="https://github.com/reyqie" target="_blank" rel="noreferrer"><img src="https://github.com/reyhanhaqiqi/reyhanhaqiqi/blob/main/mybanner.gif" alt="my banner"></a>
+  <a href="https://github.com/reyqie">
+    <img src="https://github.com/reyhanhaqiqi/reyhanhaqiqi/blob/main/mybanner.gif" alt="Reyhan's Banner" width="100%" />
+  </a>
 </p>
 
-### Hello 👋🏽, I'm [Reyqie!](https://github.com/reyqie)
-<a href="https://t.me/ReyhanHQQ">
-  <img align="left" alt="Reyhan's Telegram" width="22px" src="https://simpleicons.vercel.app/telegram/329ed8" />
-</a>
-<a href="https://www.instagram.com/reyqieee/">
-  <img align="left" alt="Reyhan's instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
-</a>
-<a href="https://www.facebook.com/reyhanhaqiqi.reyhanhaqiqi">
-  <img align="left" alt="Reyhan's Facebook" width="22px" src="https://simpleicons.vercel.app/facebook/1685e6" />
-</a>
-<a href="https://www.linkedin.com/in/reyhan-haqiqi-a-f-a226b0248/">
-  <img align="left" alt="Reyhan's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+<h1 align="center">Hey there, I'm Reyhan Haqiqi 👋</h1>
 
-<br />
-<br />
+<h3 align="center">
+  Laravel Web Developer · Flutter Mobile Developer
+</h3>
 
-Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Full Stack Developer and Network Enginer from Indonesia 🇮🇩, I'm currently trying to become a Professional Flutter Developer and maybe a Back-end Developer, with a growing love for languages. Apart from programming, I enjoy Action Games, Photography and Videography.
+<p align="center">
+  <a href="https://github.com/reyqie">
+    <img src="https://komarev.com/ghpvc/?username=reyqie&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/reyqie?tab=followers">
+    <img src="https://img.shields.io/github/followers/reyqie?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  </a>
+</p>
 
-<br />
+<!-- ===================== SOCIAL LINKS ===================== -->
 
-**Talking about Personal Stuffs:**
+<p align="center">
+  <a href="https://t.me/ReyhanHQQ">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/reyqieee/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/reyhanhaqiqi.reyhanhaqiqi">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/reyhan-haqiqi-a-f-a226b0248/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:reyhanfourniawan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Flutter and Laravel;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: reyhanfourniawan@gmail.com;
+---
 
-<br />
+## 👨‍💻 About Me
 
-**Skills and Languages Tools:**
+Hello! I'm **Reyhan Haqiqi Alif Fourniawan**, a developer from Indonesia 🇮🇩 who loves turning ideas into useful digital experiences.
 
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></kbd>
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></kbd>
+I'm passionate about building modern web applications with **Laravel** and cross-platform mobile applications with **Flutter**. I enjoy exploring new technologies, solving problems, and continuously improving my development skills.
 
+- 💻 **Web Development:** Laravel, PHP, MySQL
+- 📱 **Mobile Development:** Flutter, Dart
+- 🌱 **Currently Learning:** Advanced Laravel, Flutter architecture, and API integration
+- 🔧 **Interests:** Backend development, REST APIs, database design, and clean code
+- 🎯 **Goal:** Build reliable, scalable, and user-friendly applications
+- ⚡ **Fun fact:** I love learning how things work and turning concepts into real projects
+- 📫 **Reach me:** [Email](mailto:reyhanfourniawan@gmail.com)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+> *Building the web. Crafting the mobile experience. One line of code at a time.* 🚀
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
+---
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+## 🛠️ Tech Stack
 
-<br>
+### 💻 Web Development
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanhaqiqi&layout=compact&hide_border=true&theme=tokyonight)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap" alt="Web Development Skills" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Mobile Development Skills" />
+</p>
+
+### ⚙️ Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" alt="Developer Tools" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reyqie&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Reyhan's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyqie&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=reyqie&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+<p align="center">
+  <i>"Great software is built one thoughtful improvement at a time."</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🤝
+</p>
+
+<p align="center">
+  <a href="https://github.com/reyqie?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+  </a>
+</p>
