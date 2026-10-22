@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/reyqie">
-    <img src="https://github.com/reyqie/reyqie/blob/main/last-fight-narusasu.gif" alt="Reyhan's Banner" width="100%" />
+    <img src="https://github.com/reyqie/reyqie/blob/main/narusasu-lastfight.gif" alt="Reyhan's Banner" width="100%" />
   </a>
 </p>
 
