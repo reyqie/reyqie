@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/reyqie">
-    <img src="https://komarev.com/ghpvc/?username=reyqie&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=reyqie&label=PROFILE+VIEWS&color=0e75b6&style=flat-square&utm_source=chatgpt.com" alt="Profile Views" />
   </a>
   <a href="https://github.com/reyqie?tab=followers">
     <img src="https://img.shields.io/github/followers/reyqie?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
@@ -55,7 +55,7 @@ I'm passionate about building modern web applications with **Laravel** and cross
 - 🔧 **Interests:** Backend development, REST APIs, database design, and clean code
 - 🎯 **Goal:** Build reliable, scalable, and user-friendly applications
 - ⚡ **Fun fact:** I love learning how things work and turning concepts into real projects
-- 📫 **Reach me:** [Email](mailto:reyhanfourniawan@gmail.com)
+- 📫 **Reach me:** reyhanfourniawan@gmail.com
 
 > *Building the web. Crafting the mobile experience. One line of code at a time.* 🚀
 
