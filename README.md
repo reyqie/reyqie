@@ -13,7 +13,7 @@
   <img align="left" alt="Reyhan's Facebook" width="22px" src="https://simpleicons.vercel.app/facebook/1685e6" />
 </a>
 <a href="https://www.linkedin.com/in/reyhan-haqiqi-a-f-a226b0248/">
-  <img align="left" alt="Reyhan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/brands/linkedin.svg" />
+  <img align="left" alt="Reyhan's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <br />
