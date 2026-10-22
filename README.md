@@ -12,14 +12,14 @@
   Laravel Web Developer · Flutter Mobile Developer
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/reyqie">
     <img src="https://komarev.com/ghpvc/?username=reyqie&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/reyqie?tab=followers">
     <img src="https://img.shields.io/github/followers/reyqie?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
   </a>
-</p>
+</p> -->
 
 <!-- ===================== SOCIAL LINKS ===================== -->
 
