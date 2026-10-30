@@ -49,7 +49,7 @@ Hello! I'm **Reyhan Haqiqi Alif Fourniawan**, a developer from Indonesia 🇮�
 
 I'm passionate about building modern web applications with **Laravel** and cross-platform mobile applications with **Flutter**. I enjoy exploring new technologies, solving problems, and continuously improving my development skills.
 
-- 💻 **Web Development:** Laravel, PHP, MySQL
+- 💻 **Web Development:** Laravel, PHP, MySQL, JavaScript, TypeScript, React, Vue.js, Vite, Tailwind CSS
 - 📱 **Mobile Development:** Flutter, Dart
 - 🌱 **Currently Learning:** Advanced Laravel, Flutter architecture, and API integration
 - 🔧 **Interests:** Backend development, REST APIs, database design, and clean code
@@ -66,7 +66,7 @@ I'm passionate about building modern web applications with **Laravel** and cross
 ### 💻 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap" alt="Web Development Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,ts,react,vue,vite,tailwind,bootstrap" alt="Web Development Skills" />
 </p>
 
 ### 📱 Mobile Development
