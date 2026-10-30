@@ -57,7 +57,7 @@ I'm passionate about building modern web applications with **Laravel** and cross
 - ⚡ **Fun fact:** I love learning how things work and turning concepts into real projects
 - 📫 **Reach me:** reyhanfourniawan@gmail.com
 
-> *Building the web. Crafting the mobile experience. One line of code at a time.* 🚀
+> _Building the web. Crafting the mobile experience. One line of code at a time._ 🚀
 
 ---
 
